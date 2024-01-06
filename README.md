@@ -1,6 +1,7 @@
 # CLI-application
 Node.js 01 Homework
 SCREENSHOTS
+
  Action list
 https://monosnap.com/file/RZPR8HOhAo4WSR8lXa4gO9WRsfVo5e
 
